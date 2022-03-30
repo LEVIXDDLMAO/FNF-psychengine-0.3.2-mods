@@ -1488,12 +1488,12 @@ class PreferencesSubstate extends MusicBeatSubstate
 		'Show Keyboard Overlay',
 		'Keyboard Overlay Alpha',
 		'Ghost Tapping',
-		//'Note Delay',
-		//'Note Splashes',
-		//'Hide HUD',
-		//'Hide Song Length',
-		//'Flashing Lights',
-		//'Camera Zooms',
+		'Note Delay',
+		'Note Splashes',
+		'Hide HUD',
+		'Hide Song Length',
+		'Flashing Lights',
+		'Camera Zooms',
 		#if !mobile
 		'FPS Counter',
 		#end
